@@ -1,0 +1,2 @@
+http://localhost/wordpress_/sample-post/
+[products limit="4" columns="4" category="laptop"]
